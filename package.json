@@ -1,0 +1,24 @@
+{
+  "name": "pride-places-test",
+  "version": "1.0.0",
+  "description": "This is the package for the front end test of pride place",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Samuel Tirtawidjaja",
+  "license": "MIT",
+  "devDependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.7",
+    "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
+    "framer-motion": "^4.1.17"
+  }
+}
