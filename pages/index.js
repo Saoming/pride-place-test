@@ -1,6 +1,6 @@
 import { Box, Container, Grid, Heading } from "@chakra-ui/layout";
 import React, { useEffect, useState } from "react"
-import { PosContent } from "./components/postWrapper";
+import { PosContent } from "./components/postContent";
 import { useFetch } from "./components/useFetch";
 
 const Home = () => {
