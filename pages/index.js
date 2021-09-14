@@ -29,7 +29,7 @@ const Home = () => {
                 <Heading> Proud Place Front End Coding Challenge  </Heading>
             </Box>
             <Grid templateColumns={{ sm: "repeat(1, 1fr)", md: "repeat(4, 1fr)", lg: "repeat(5, 1fr)" }} gap={6}>
-                {/* get us */}
+                {/* show the true merged post */}
                 { !posts && !users ? "loading..." : 
                     truePost.map( (post) => {  
                         return  <PosContent key={post.id}
@@ -41,7 +41,6 @@ const Home = () => {
                         }
                     )
                 }
-                {/* <PosContent /> */}
             </Grid>
         </Container>
     )
