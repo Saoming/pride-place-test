@@ -1,7 +1,7 @@
 # FRONT-END CODING CHALLENGES PRIDE PLACES  👋 🔭
 pridePlaces-codingChallenge
 
-Hello Everyone, This is Samuel Tirtawidjaja Coding Challenges for pride places. Hope you liked it. 
+Hello Everyone, This is Samuel Tirtawidjaja and this is my Coding Challenges for pride places. Hope you liked it. 
 
 ## Project Context
 => REQUIREMENTS
@@ -25,7 +25,7 @@ HINTS:
 Good luck!
 
 ## Technologies
-This is a Full Stack web app, created with:
+This is a Test web app, created with:
 - [React](http://reactjs.org/)
 - [Next](https://nextjs.org/)
 - [Chakra](https://chakra-ui.com/)
