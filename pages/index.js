@@ -26,7 +26,7 @@ const Home = () => {
     return (
         <Container maxW="1440px" py="24">
             <Box py="8">
-                <Heading> Proud Place Front End Coding Challenge  </Heading>
+                <Heading> Pride Place Front End Coding Challenge  </Heading>
             </Box>
             <Grid templateColumns={{ sm: "repeat(1, 1fr)", md: "repeat(4, 1fr)", lg: "repeat(5, 1fr)" }} gap={6}>
                 {/* show the true merged post */}
